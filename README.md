@@ -16,7 +16,7 @@ Meningkatnya pemanfaatan e-learning di Indonesia menciptakan kebutuhan untuk mem
 
 **Raw dataset link**
 [https://www.kaggle.com/datasets/defaultujijk/dataset-netizen-indonesian-sentiment-review1
-](url)
+](https://www.kaggle.com/datasets/defaultujijk/dataset-netizen-indonesian-sentiment-review1)
 
 **Insight & findings**
 Berdasarkan analisis sentimen terhadap lima jenis e-course/e-learning, Onsite Course Learning (OCL) menduduki peringkat tertinggi dengan rata-rata sentimen 1.41 dari 438 ulasan, mengindikasikan kepuasan pengguna yang cukup kuat. Diikuti oleh Private Online Course Learning (POCL) dan Private Course Onsite Learning (PCOL) yang juga mendapatkan rating sentimen di atas rata-rata. Sebaliknya, Premium Online Learning (POL) berada pada posisi terendah dengan rata-rata sentimen 1.00 dari 439 ulasan, menunjukkan adanya ruang perbaikan yang cukup signifikan.
